@@ -32,8 +32,8 @@ subject
       29  .Subject 29
       30  .Subject 30
       
-activity
-      Each of the six activities each subject carried out
+activity       
+    Each of the six activities each subject carried out
       
       WALKING
       WALKING_UPSTAIRS
@@ -42,8 +42,8 @@ activity
       STANDING
       LAYING
       
-variable
-      Feature measured during the experiment
+variable       
+    Feature measured during the experiment
       
       tBodyAcc-mean()-X
       tBodyAcc-mean()-Y
@@ -133,7 +133,7 @@ variable
       fBodyBodyGyroJerkMag-std()
     
 
-mean 
+mean        
     The average measurement of the variable for each combination of subject and activity.
     
     normalized and bounded within [-1,1]
