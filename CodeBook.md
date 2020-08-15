@@ -33,7 +33,7 @@ subject
       30  .Subject 30
       
 activity
-      each of the six activities each subject carried out
+      Each of the six activities each subject carried out
       
       WALKING
       WALKING_UPSTAIRS
@@ -43,7 +43,7 @@ activity
       LAYING
       
 variable
-      feature measured during the experiment
+      Feature measured during the experiment
       
       tBodyAcc-mean()-X
       tBodyAcc-mean()-Y
@@ -134,5 +134,6 @@ variable
     
 
 mean 
-  the average measurement of the variable for each combination of subject and activity.
-  normalized and bounded within [-1,1]
+    The average measurement of the variable for each combination of subject and activity.
+    
+    normalized and bounded within [-1,1]
